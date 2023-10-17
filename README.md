@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 
 <!--
 **cheonvi1004/cheonvi1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Technical stack:
+
+<p>
+  <span>
+    <span>
+      <img src="https://img.shields.io/badge/BackEnd-20232A?style=flat&logo=springboot&logoColor=61DAFB"/>
+    </span>
+    
+</p>
