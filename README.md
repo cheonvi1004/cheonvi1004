@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p>
   <span>
     <span>
-      <img src="https://img.shields.io/badge/BackEnd-20232A?style=flat&logo=springboot&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/springboot-springboot-6DB33F?logo=springboot"/>
     </span>
     
 </p>
